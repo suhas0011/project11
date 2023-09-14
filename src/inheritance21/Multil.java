@@ -1,5 +1,4 @@
-package inheritance;
-
+package inheritance21;
 
 public class Multil {
 	void bike() {
@@ -8,7 +7,7 @@ public class Multil {
 
 }
 class Vehicle37 extends Multil{
-	void car() {
+	void car13() {
 		System.out.println("toyoto");
 	}
 }
@@ -22,7 +21,7 @@ class Vehicle33{
 	public static void main(String[] args) {
 		Vehicle3 v1=new Vehicle3();
 		v1.bike();
-		v1.car();
+		v1.car13();
 		v1.car2();
 	}
 		
