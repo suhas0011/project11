@@ -1,12 +1,12 @@
-package inheritance21;
+package Inheritance;
 
-public class Multil {
+public class Multi {
 	void bike() {
 		System.out.println("RX100");
 	}
 
 }
-class Vehicle37 extends Multil{
+class Vehicle37 extends Multi{
 	void car13() {
 		System.out.println("toyoto");
 	}
