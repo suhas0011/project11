@@ -1,6 +1,5 @@
 package Inheritance;
-
-public class Multi {
+class Multi {
 	void bike() {
 		System.out.println("RX100");
 	}

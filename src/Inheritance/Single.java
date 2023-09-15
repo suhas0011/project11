@@ -1,22 +1,24 @@
 package Inheritance;
 
-public class Single {
-	void Bike() {
+ class Singl {
+	void Bike1() {
 		System.out.println("R15");
 	}
 
 }
-  class Vehicle22 extends Single{
-	 void car(){
+ public class Single extends Singl{
+	 void car1(){
 		 System.out.println("Tata");
 		 
 	 }
  }
-  class Vehicle39{
+ 
+  class Hlo {
 	public static void main(String[] args) {
-		Vehicle22 v1=new Vehicle22();
-		v1.Bike();
-		v1.car();
+		Single v22=new Single();
+		v22.Bike1();
+		v22.car1();
 	}
 		
 	}
+ 
