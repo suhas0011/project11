@@ -26,7 +26,7 @@ public class Armstrong {
  if( armstrongnumber==added) {
 	 System.out.println(armstrongnumber+"is an armstrong number");
  }else {
-	 System.out.println(armstrongnumber+"is not an armstrong number");
+	 System.out.println(armstrongnumber+"is not1 an armstrong number");
  
  }
  
