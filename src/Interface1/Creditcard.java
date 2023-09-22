@@ -1,4 +1,4 @@
-package Interface;
+package Interface1;
 
 interface Creditcard {
 	public void rupees();

@@ -1,4 +1,4 @@
-package Interface;
+package Interface1;
 
 public class Bankaccount implements Creditcard {
 

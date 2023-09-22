@@ -1,24 +1,24 @@
 package Inheritance;
 
- class Instagram {
+ class Insta {
 	void hlo(){
 		System.out.println("hlooo");
 	}
 }
 	
-	class Story extends Instagram {
+	class Story extends Insta {
 		void hii() {
 			System.out.println("hiii");
 		}
 	}
-	class Reels extends Instagram{
+	class Reels extends Insta{
 		void hmm() {
 			System.out.println("heyyy");
 		}
 	}
 	
 	
-class Insta{
+public class Instagram{
 	public static void main(String[] args) {
 		Story s1=new Story();
 		s1.hii();

@@ -1,11 +1,11 @@
 package Inheritance;
-class Multi {
+class Vehicle {
 	void bike() {
 		System.out.println("RX100");
 	}
 
 }
-class Vehicle37 extends Multi{
+class Vehicle37 extends Vehicle{
 	void car13() {
 		System.out.println("toyoto");
 	}
@@ -16,7 +16,7 @@ class Vehicle3 extends Vehicle37{
 	}
 }
 
-class Vehicle33{
+class Multi{
 	public static void main(String[] args) {
 		Vehicle3 v1=new Vehicle3();
 		v1.bike();
