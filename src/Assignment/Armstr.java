@@ -3,7 +3,6 @@ package Assignment;
 public class Armstr {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int num=1634,originalnumber,rem,res=0;
 		originalnumber=num;
 		while(originalnumber!=0)
