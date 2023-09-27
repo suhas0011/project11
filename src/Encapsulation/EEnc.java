@@ -6,7 +6,7 @@ public class EEnc {
  String getna() {
 	return na;
 }
-void setna( String nan) {
-	this.na=nan;
+void setna( String na) {
+	this.na=na;
 }
 }

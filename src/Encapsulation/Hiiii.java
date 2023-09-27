@@ -8,6 +8,8 @@ public class Hiiii extends Enc {
 		System.out.println(s.getname());
 		s.setname(5000);
 		System.out.println(s.getname());
+		System.out.println(s.getnnaa());
+		System.out.println(s.getnnnn());
 
 	}
 
